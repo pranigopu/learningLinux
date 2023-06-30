@@ -1,4 +1,4 @@
-﻿# Terminology
+# Terminology
 Terms discussed:
 - Kernel
 - Distribution (also called "distro")
@@ -42,3 +42,5 @@ A desktop environment (DE) is the implementation of a desktop metaphor, made of 
 
 ## Command line & shell
 Interface for typing commands on top of the OS. The shell is a command line interpreter that interprets the command line input and instructs the OS to perform the necessary commands and tasks.
+
+> Written with [StackEdit](https://stackedit.io/).
